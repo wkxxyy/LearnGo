@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e8094c-0b0d-49e6-a7ce-812b418fdb48" name="Default Changelist" comment="Go语言学习11月7日">
-      <change afterPath="$PROJECT_DIR$/arrhandling/filelistingserver/errwrapper_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/atomic/atomic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel/channel.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel/done/done.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel/select/select.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goroutine/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goroutine/goroutine.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/queue_test.go" afterDir="false" />
+    <list default="true" id="e5e8094c-0b0d-49e6-a7ce-812b418fdb48" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnGo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrhandling/filelistingserver/web.go" beforeDir="false" afterPath="$PROJECT_DIR$/arrhandling/filelistingserver/web.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue/queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/queue/queue.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree/entry/entry.go" beforeDir="false" afterPath="$PROJECT_DIR$/tree/entry/entry.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree/traversal.go" beforeDir="false" afterPath="$PROJECT_DIR$/tree/traversal.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,13 +67,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="go" value="22071" />
-          <entry key="txt" value="41" />
+          <entry key="txt" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Go" value="22071" />
-          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="PLAIN_TEXT" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger">
@@ -108,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/channel/select/select.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1404">
-              <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+              <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -117,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/channel/done/done.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1350">
-              <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+              <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
               <folding>
                 <element signature="e#14#39#0" expanded="true" />
               </folding>
@@ -128,8 +115,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basic/atomic/atomic.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="730">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            <state relative-caret-position="756">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -423,8 +410,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49892932" weight="0.7425507" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010707" side_tool="true" weight="0.7425507" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.498394" weight="0.7425507" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.501606" side_tool="true" weight="0.7425507" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -464,7 +451,8 @@
       <path value="$PROJECT_DIR$/LearnGo" />
     </ignored-roots>
     <MESSAGE value="Go语言学习11月7日" />
-    <option name="LAST_COMMIT_MESSAGE" value="Go语言学习11月7日" />
+    <MESSAGE value="Go语言学习11月9日" />
+    <option name="LAST_COMMIT_MESSAGE" value="Go语言学习11月9日" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -733,6 +721,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -775,6 +766,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="18" selection-start-line="18" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -796,14 +790,14 @@
     <entry file="file://$PROJECT_DIR$/channel/select/select.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1404">
-          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+          <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/channel/done/done.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
-          <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+          <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
           <folding>
             <element signature="e#14#39#0" expanded="true" />
           </folding>
@@ -812,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic/atomic/atomic.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        <state relative-caret-position="756">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
